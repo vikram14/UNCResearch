@@ -1,0 +1,8 @@
+public void int[] addX(int arr[]) 
+    {  
+        int sum= 0;
+	int i;
+        for (i = 0; i < n; i++) 
+            sum+ = arr[i];   
+        system.out.println(sum);
+    }

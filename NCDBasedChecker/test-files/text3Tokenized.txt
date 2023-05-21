@@ -1,0 +1,1 @@
+PUBLIC STATIC INT LBRACK RBRACK Identifier LPAREN INT Identifier COMMA INT Identifier LBRACK RBRACK COMMA INT Identifier RPAREN LBRACE INT Identifier ASSIGN IntegerLiteral SEMI FOR LPAREN INT Identifier ASSIGN IntegerLiteral SEMI Identifier LT Identifier SEMI Identifier INC RPAREN Identifier ADD ASSIGN Identifier LBRACK Identifier RBRACK SEMI RETURN Identifier SEMI RBRACE EOF 
